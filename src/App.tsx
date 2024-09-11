@@ -1,11 +1,9 @@
-
 function App() {
-
-  return (
-    <>
-      <p>Project</p>
-    </>
-  )
+    return (
+        <>
+            <p>Project</p>
+        </>
+    );
 }
 
-export default App
+export default App;
