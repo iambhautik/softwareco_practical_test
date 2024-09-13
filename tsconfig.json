@@ -1,4 +1,7 @@
 {
+    "compilerOptions": {
+        "jsx": "react-jsxdev"
+    },
     "files": [],
     "references": [
         { "path": "./tsconfig.app.json" },
